@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blazejwiecha
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Testing , Python programming ...
 - 📫 How to reach me ? Use google and You will find my username
 
 <!---
