@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blazejwiecha
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, manual testing and CI/CD
 - Also learning to know Manual Testing and in future Automation 
 - 💞️ I’m looking to collaborate on Testing , Python programming ...
 - 📫 How to reach me ? Use google and You will find my username
